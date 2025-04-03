@@ -23,3 +23,7 @@ go.work.sum
 
 # env file
 .env
+BookStore/.idea/BookStore.iml
+BookStore/.idea/encodings.xml
+BookStore/.idea/modules.xml
+BookStore/.idea/vcs.xml
