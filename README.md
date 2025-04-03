@@ -2,7 +2,7 @@
 
 Welcome to my Go playground! 🎉 This repository is where I document my journey of learning the Go programming language. Expect small projects, experiments, and lots of fun! 🚀
 
-![image](https://miro.medium.com/v2/resize:fit:1400/1*50gShCoVJvKg25EQ7ugFqw.gif)
+![image](https://miro.medium.com/v2/resize:fit:500/0*t93Y3LrMvw4v-kGy.gif)
 
 
 ## 📖 About
